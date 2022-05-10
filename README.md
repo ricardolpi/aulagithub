@@ -1,6 +1,10 @@
 # aulagithub
 
-git status
+git status <b>
+
 git add .
-git commit -m "mensagem"
-git push
+
+git commit -m "mensagem" <i>
+
+git push <p>
+
